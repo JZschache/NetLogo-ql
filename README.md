@@ -10,6 +10,7 @@ This simulation tool is built on **NetLogo**. More specifically, the following s
 * [typesafe/config 1.2.0](https://github.com/typesafehub/config)
 * [Colt 1.2.0](https://dst.lbl.gov/ACSSoftware/colt/)
 
+The source code is found at [https://github.com/JZschache/NetLogo-Extensions](https://github.com/JZschache/NetLogo-Extensions)
 
 Since ql is an extension of NetLogo, the latter must be installed first ([NetLogo 5.2.1](https://ccl.northwestern.edu/netlogo/5.2.1/)). 
 
