@@ -22,3 +22,5 @@ moved to the newly created directory `extensions/ql`. For example:
     mv NetLogo-ql/extensions/ql path-to-netlogo/extensions
 
 After starting NetLogo, a sample model from `NetLogo-ql/models` can be loaded. A very simple one is given in `NetLogo-ql/models/basic.nlogo`.
+
+For more information see [qlextension.pdf](https://github.com/JZschache/NetLogo-ql/blob/master/qlextension.pdf)
